@@ -1,3 +1,6 @@
+//Ejercicio No. 1: 
+//Realizar un programa que solicite al usuario dos números enteros y muestre su suma, resta, multiplicación y división.
+
 import java.util.Scanner;
 
 public class Ejercicio01 {
